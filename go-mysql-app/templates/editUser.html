@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Home</title>
+</head>
+
+<body>
+    {{ if . }}
+    <form method="post" action="/updateUsers">
+        <input type="hidden" name="id" value="{{ .ID }}" />
+        <div>Username: <input type="text" name="username" value="{{ .Username }}" /></div>
+        <div>First Name: <input type="text" name="firstName" value="{{ .FirstName }}" /></div>
+        <div>Last Name: <input type="text" name="lastName" value="{{ .LastName }}" /></div>
+        <input type="submit" value="Update" />
+    </form>
+    {{ else }}
+    <h1> Data Not Found </h1>
+    {{ end }}
+</body>
+
+</html>
