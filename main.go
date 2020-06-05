@@ -1053,7 +1053,7 @@ func Structs() {
 
 	w2 := &w1
 	fmt.Println(*w2)
-	decrement(w2)
+	increment(w2)
 	fmt.Println(*w2)
 	fmt.Println(w1)
 }
@@ -1063,7 +1063,7 @@ type worker struct {
 	salary float64
 }
 
-func decrement(w *worker) {
+func increment(w *worker) {
 	w.salary *= 1.15
 }
 
