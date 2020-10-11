@@ -1,1 +1,1 @@
-playing with go
+Experimenting with go
