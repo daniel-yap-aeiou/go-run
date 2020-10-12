@@ -12,3 +12,10 @@ How to run:
  
 <br/>
 ![alt_text](/img/screencapture-localhost-8090-2020-10-12-18_24_23.png) 
+
+<img
+src=“img/screencapture-localhost-8090-2020-10-12-18_24_23.png"
+raw=true
+alt=“Screenshot”
+style=“margin-right: 10px;”
+/>
