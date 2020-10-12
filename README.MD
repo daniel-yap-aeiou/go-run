@@ -11,4 +11,5 @@ How to run:
  4. Open web browser, enter 'localhost:8090'
  
 <br/>
-[](https://github.com/daniel-yap-aeiou/go-test/blob/master/img/screencapture-localhost-8090-2020-10-12-18_24_23.png?raw=true)
+**raw.githubusercontent.com**:
+<img src="https://raw.githubusercontent.com/daniel-yap-aeiou/go-test/blob/master/img/screencapture-localhost-8090-2020-10-12-18_24_23.pngraw=true" />
