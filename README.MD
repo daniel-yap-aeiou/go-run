@@ -11,4 +11,4 @@ How to run:
  4. Open web browser, enter 'localhost:8090'
  
 <br/>
-![Alt text](/img/screencapture-localhost-8090-2020-10-12-18_24_23.png) 
+![alt_text](/img/screencapture-localhost-8090-2020-10-12-18_24_23.png) 
