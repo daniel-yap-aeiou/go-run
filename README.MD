@@ -1,1 +1,1 @@
-Experimenting with go
+Experimenting with golang
