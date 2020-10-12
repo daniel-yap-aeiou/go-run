@@ -19,3 +19,5 @@ raw=true
 alt=“Screenshot”
 style=“margin-right: 10px;”
 />
+
+![Image of Yaktocat](https://github.com/daniel-yap-aeiou/go-test/blob/master/img/screencapture-localhost-8090-2020-10-12-18_24_23.png)
