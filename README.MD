@@ -11,13 +11,5 @@ How to run:
  4. Open web browser, enter 'localhost:8090'
  
 <br/>
-![alt_text](/img/screencapture-localhost-8090-2020-10-12-18_24_23.png) 
 
-<img
-src=“img/screencapture-localhost-8090-2020-10-12-18_24_23.png"
-raw=true
-alt=“Screenshot”
-style=“margin-right: 10px;”
-/>
-
-![Image of Yaktocat](https://github.com/daniel-yap-aeiou/go-test/blob/master/img/screencapture-localhost-8090-2020-10-12-18_24_23.png)
+![Snapshot](https://github.com/daniel-yap-aeiou/go-test/blob/master/img/screencapture-localhost-8090-2020-10-12-18_24_23.png)
