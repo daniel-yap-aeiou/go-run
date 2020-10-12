@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Experimenting with golang
-=======
 Experimenting with go
 <br/>
 Demo link: https://youtu.be/7h_PpyLwy1E
@@ -14,4 +11,4 @@ How to run:
  4. Open web browser, enter 'localhost:8090'
  
 <br/>
->>>>>>> b70f427c77735993360aad8c0ef8270fa9ddc541
+![alt text](https://github.com/daniel-yap-aeiou/go-test/blob/master/img/screencapture-localhost-8090-2020-10-12-18_24_23.png)
