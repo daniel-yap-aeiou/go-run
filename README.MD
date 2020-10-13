@@ -12,4 +12,4 @@ How to run:
  
 <br/>
 
-![Snapshot](https://github.com/daniel-yap-aeiou/go-test/blob/master/img/Home%20-%20Google%20Chrome%202020-10-13%2018-21-31.gif)
+![Snapshot](https://github.com/daniel-yap-aeiou/go-test/blob/master/img/Home%20-%20Google%20Chrome%202020-10-13%2018-25-55.gif)
