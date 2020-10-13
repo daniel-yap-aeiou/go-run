@@ -65,6 +65,7 @@ func init() {
 func main() {
 	defer db.Close()
 	http.Handle("/favicon.ico", http.NotFoundHandler())
+	http.Handle("/assets/", http.StripPrefix("/assets/css/", http.FileServer(http.Dir("assets/css"))))
 	http.HandleFunc("/", index)
 	http.HandleFunc("/userForm", userForm)
 	http.HandleFunc("/createUsers", createUsers)
