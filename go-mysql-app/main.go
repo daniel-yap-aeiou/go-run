@@ -165,11 +165,16 @@ func deleteUsers(res http.ResponseWriter, req *http.Request) {
 }
 
 func updateUsers(w http.ResponseWriter, req *http.Request) {
+	bPass, e := bcrypt.GenerateFromPassword([]byte(req.FormValue("password")), bcrypt.MinCost)
+	checkErr(e)
+	pwd := bPass
+	log.Println(pwd)
 	_, er := db.Exec(
-		"UPDATE users SET username = ?, first_name = ?, last_name = ? WHERE id = ? ",
+		"UPDATE users SET username = ?, first_name = ?, last_name = ?, password = ? WHERE id = ? ",
 		req.FormValue("username"),
 		req.FormValue("firstName"),
 		req.FormValue("lastName"),
+		pwd,
 		req.FormValue("id"),
 	)
 	checkErr(er)
