@@ -20,4 +20,5 @@ How to test:
 3. go test
 4. done
 
-![Snapshot](https://github.com/daniel-yap-aeiou/go-test/blob/master/img/Home%20-%20Google%20Chrome%202020-10-13%2018-25-55.gif)
+<br/>
+![Snapshot](https://github.com/daniel-yap-aeiou/go-run/blob/master/img/Home%20-%20Google%20Chrome%202020-11-03%2013-03-50.gif)
