@@ -13,4 +13,11 @@ How to run:
  
 <br/>
 
+How to test:
+<br/>
+1. Open Terminal (PowerShell)
+2. cd to "unittest" folder
+3. go test
+4. done
+
 ![Snapshot](https://github.com/daniel-yap-aeiou/go-test/blob/master/img/Home%20-%20Google%20Chrome%202020-10-13%2018-25-55.gif)
